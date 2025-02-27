@@ -1,5 +1,3 @@
-Here’s the same content in plain text format:
-
 ---
 
 # Customer Satisfaction Analysis  
